@@ -1,0 +1,15 @@
+{
+  "name": "typescipt-basics",
+  "version": "1.0.0",
+  "description": "Basics of typescript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Facundo Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
